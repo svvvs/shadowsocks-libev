@@ -14,5 +14,15 @@ Client side:
     Chrome: install SwitchyOmega, in PROXY section, choose SOCKS5 as Protocol, fill the local IP and port then apply changes. In up right side 
     of Chrome, click the switch button and choose PROXY,
   
-
+Server side:
+  
+  pricing study:
+    1. GCP server:
+      free for a year
+      300$ given for the
+      combien perfectly cloud storage and cloud compute, plus BIGQUERY, AI, etc
+    2. Digital ocean
+      10€/month
+      only cloud storage and cloud compute, no other services
+   
     
