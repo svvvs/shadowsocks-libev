@@ -1,0 +1,18 @@
+Introduction
+
+Client side:
+  1. Ubuntu 17.04  download Shadowsocks-Qt5-3.0.0-x86_64.appimage
+  2. sudo chmod a+x  Shadowsocks-Qt5-3.0.0-x86_64.appimage
+  3. sudo ./Shadowsocks-Qt5-3.0.0-x86_64.appimage
+    
+  4. Configuration
+    then add connection with serverIP, serverPort, Password, keep local settings given by default and make sure SOCKS5 as local server type,
+    and also make sure the correct Encryption Method correspond to the server's configuration is choosen. once click 'start', this will connect
+    to the server
+  
+    then we need to configure the proxy in the browser
+    Chrome: install SwitchyOmega, in PROXY section, choose SOCKS5 as Protocol, fill the local IP and port then apply changes. In up right side 
+    of Chrome, click the switch button and choose PROXY,
+  
+
+    
